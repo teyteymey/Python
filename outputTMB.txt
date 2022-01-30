@@ -1,0 +1,2 @@
+Jan 30 20:22:56, response= b'{"status":"success","result":"\\n<p class=\'modal_title x18 bold\'>Oh! No has tingut sort!<\\/p>\\n<p class=\'x14\'>Has esgotat les teves participacions per\\u00f2 si comparteixes la promoci\\u00f3 a Facebook i a Twitter, tindr\\u00e0s 2 oportunitats m\\u00e9s! <\\/p>\\n"}'
+Jan 30 21:37:15, response= b'{"status":"error","type":"no-logged"}'
